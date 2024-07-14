@@ -1,0 +1,45 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+img {
+    height: auto;
+    display: block;
+}
+
+body {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.container {
+    width: 640px;
+    margin: 0 auto;
+}
+
+.news-title {
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.footer {
+    text-align: center;
+    padding: 48px 0;
+}
+
+.df {
+    display: flex;
+}
+
+.ml-20 {
+    margin-left: 20px;
+}
+
+.mr-20 {
+    margin-right: 20px;
+}
+
+.mb-24 {
+    margin-bottom: 24px;
+}
+
